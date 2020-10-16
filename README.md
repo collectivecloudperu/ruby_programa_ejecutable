@@ -1,2 +1,2 @@
-# ruby_programa_ejecutable
-Como Crear Nuestro Primer Programa con Ruby
+# Como Crear Nuestro Primer Programa con Ruby 
+Post: https://blog.nubecolectiva.com/como-crear-nuestro-primer-programa-con-ruby/ 
